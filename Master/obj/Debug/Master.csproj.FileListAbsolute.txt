@@ -1,0 +1,9 @@
+C:\Users\cao\source\repos\Test\Upgrade\Master\bin\Debug\Master.exe.config
+C:\Users\cao\source\repos\Test\Upgrade\Master\bin\Debug\Master.exe
+C:\Users\cao\source\repos\Test\Upgrade\Master\bin\Debug\Master.pdb
+C:\Users\cao\source\repos\Test\Upgrade\Master\obj\Debug\Master.Form1.resources
+C:\Users\cao\source\repos\Test\Upgrade\Master\obj\Debug\Master.Properties.Resources.resources
+C:\Users\cao\source\repos\Test\Upgrade\Master\obj\Debug\Master.csproj.GenerateResource.cache
+C:\Users\cao\source\repos\Test\Upgrade\Master\obj\Debug\Master.csproj.CoreCompileInputs.cache
+C:\Users\cao\source\repos\Test\Upgrade\Master\obj\Debug\Master.exe
+C:\Users\cao\source\repos\Test\Upgrade\Master\obj\Debug\Master.pdb

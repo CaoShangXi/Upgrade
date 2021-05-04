@@ -1,0 +1,6 @@
+C:\Users\cao\source\repos\Test\Upgrade\Master\bin\Debug\Upgrade.exe.config
+C:\Users\cao\source\repos\Test\Upgrade\Master\bin\Debug\Upgrade.exe
+C:\Users\cao\source\repos\Test\Upgrade\Master\bin\Debug\Upgrade.pdb
+C:\Users\cao\source\repos\Test\Upgrade\Upgrade\obj\Debug\Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\cao\source\repos\Test\Upgrade\Upgrade\obj\Debug\Upgrade.exe
+C:\Users\cao\source\repos\Test\Upgrade\Upgrade\obj\Debug\Upgrade.pdb
